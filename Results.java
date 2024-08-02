@@ -9,7 +9,7 @@
  * @author Testing */
 public class Student {
     String name;
-    
+    // String name;
     int RE;
     int SDA;
     int SQAT;
